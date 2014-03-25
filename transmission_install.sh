@@ -36,7 +36,7 @@ ln -s /DataVolume/shares/Public/torrents /var/lib/transmission-daemon/info/torre
 
 ########
 
-echo Then to start Transmission again
+echo Start Transmission
 /etc/init.d/transmission-daemon start
 
 echo Transmission is installed and running
